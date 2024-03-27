@@ -1,0 +1,5 @@
+huobi-sdk
+huobi
+PyQt5
+ccxt
+python-dotenv
